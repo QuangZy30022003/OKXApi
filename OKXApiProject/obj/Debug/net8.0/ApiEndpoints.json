@@ -1,0 +1,102 @@
+[
+  {
+    "ContainingType": "OKXApiProject.Controllers.OKXController",
+    "Method": "GetBalance",
+    "RelativePath": "api/OKX/balance",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OKXApiProject.Controllers.OKXController",
+    "Method": "CreateSubAccount",
+    "RelativePath": "api/OKX/subaccount",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Repositories.Enities.Subaacount.CreateSubAccountRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OKXApiProject.Controllers.OKXController",
+    "Method": "GetTradeHistory",
+    "RelativePath": "api/OKX/trades/{instType}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "instType",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OKXApiProject.Controllers.OKXController",
+    "Method": "GetTrend",
+    "RelativePath": "api/OKX/trend",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "instId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OKXApiProject.Controllers.WebhookController",
+    "Method": "PlaceOrder",
+    "RelativePath": "api/webhook/place",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Repositories.Enities.OKx.OKXOrderRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OKXApiProject.Controllers.WebhookController",
+    "Method": "GetSubAccounts",
+    "RelativePath": "api/webhook/subaccounts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "apiKey",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "secretKey",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "passphrase",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

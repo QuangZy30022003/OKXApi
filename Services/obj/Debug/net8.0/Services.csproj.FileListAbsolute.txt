@@ -1,0 +1,17 @@
+D:\myself\BE\OKXApiProject\Services\bin\Debug\net8.0\Services.deps.json
+D:\myself\BE\OKXApiProject\Services\bin\Debug\net8.0\Services.runtimeconfig.json
+D:\myself\BE\OKXApiProject\Services\bin\Debug\net8.0\Services.dll
+D:\myself\BE\OKXApiProject\Services\bin\Debug\net8.0\Services.pdb
+D:\myself\BE\OKXApiProject\Services\bin\Debug\net8.0\Repositories.dll
+D:\myself\BE\OKXApiProject\Services\bin\Debug\net8.0\Repositories.pdb
+D:\myself\BE\OKXApiProject\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\myself\BE\OKXApiProject\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\myself\BE\OKXApiProject\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\myself\BE\OKXApiProject\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\myself\BE\OKXApiProject\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\myself\BE\OKXApiProject\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\myself\BE\OKXApiProject\Services\obj\Debug\net8.0\Services.dll
+D:\myself\BE\OKXApiProject\Services\obj\Debug\net8.0\refint\Services.dll
+D:\myself\BE\OKXApiProject\Services\obj\Debug\net8.0\Services.pdb
+D:\myself\BE\OKXApiProject\Services\obj\Debug\net8.0\Services.genruntimeconfig.cache
+D:\myself\BE\OKXApiProject\Services\obj\Debug\net8.0\ref\Services.dll

@@ -1,0 +1,6 @@
+@OKXApiProject_HostAddress = http://localhost:5234
+
+GET {{OKXApiProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
